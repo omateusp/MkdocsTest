@@ -1,0 +1,7 @@
+site_name: Mkdocs test
+nav:
+    - Home: index.md
+    - Sub: sub.md
+    - About: about.md
+theme: readthedocs
+extra_css: [extra.css]
